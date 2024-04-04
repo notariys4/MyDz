@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GigFutur\\FineProgram\\Dz\\Dz1\\Dz1.csproj": {}
+    "C:\\GigFutur\\FineProgram\\Dz\\DZ1\\Dz1.csproj": {}
   },
   "projects": {
-    "C:\\GigFutur\\FineProgram\\Dz\\Dz1\\Dz1.csproj": {
+    "C:\\GigFutur\\FineProgram\\Dz\\DZ1\\Dz1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GigFutur\\FineProgram\\Dz\\Dz1\\Dz1.csproj",
+        "projectUniqueName": "C:\\GigFutur\\FineProgram\\Dz\\DZ1\\Dz1.csproj",
         "projectName": "Dz1",
-        "projectPath": "C:\\GigFutur\\FineProgram\\Dz\\Dz1\\Dz1.csproj",
+        "projectPath": "C:\\GigFutur\\FineProgram\\Dz\\DZ1\\Dz1.csproj",
         "packagesPath": "C:\\Users\\liltr\\.nuget\\packages\\",
-        "outputPath": "C:\\GigFutur\\FineProgram\\Dz\\Dz1\\obj\\",
+        "outputPath": "C:\\GigFutur\\FineProgram\\Dz\\DZ1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\liltr\\AppData\\Roaming\\NuGet\\NuGet.Config"

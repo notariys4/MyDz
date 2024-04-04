@@ -1,0 +1,14 @@
+C:\GigFutur\FineProgram\Dz\DZ1\bin\Debug\net8.0\Dz1.exe
+C:\GigFutur\FineProgram\Dz\DZ1\bin\Debug\net8.0\Dz1.deps.json
+C:\GigFutur\FineProgram\Dz\DZ1\bin\Debug\net8.0\Dz1.runtimeconfig.json
+C:\GigFutur\FineProgram\Dz\DZ1\bin\Debug\net8.0\Dz1.dll
+C:\GigFutur\FineProgram\Dz\DZ1\bin\Debug\net8.0\Dz1.pdb
+C:\GigFutur\FineProgram\Dz\DZ1\obj\Debug\net8.0\Dz1.GeneratedMSBuildEditorConfig.editorconfig
+C:\GigFutur\FineProgram\Dz\DZ1\obj\Debug\net8.0\Dz1.AssemblyInfoInputs.cache
+C:\GigFutur\FineProgram\Dz\DZ1\obj\Debug\net8.0\Dz1.AssemblyInfo.cs
+C:\GigFutur\FineProgram\Dz\DZ1\obj\Debug\net8.0\Dz1.csproj.CoreCompileInputs.cache
+C:\GigFutur\FineProgram\Dz\DZ1\obj\Debug\net8.0\Dz1.dll
+C:\GigFutur\FineProgram\Dz\DZ1\obj\Debug\net8.0\refint\Dz1.dll
+C:\GigFutur\FineProgram\Dz\DZ1\obj\Debug\net8.0\Dz1.pdb
+C:\GigFutur\FineProgram\Dz\DZ1\obj\Debug\net8.0\Dz1.genruntimeconfig.cache
+C:\GigFutur\FineProgram\Dz\DZ1\obj\Debug\net8.0\ref\Dz1.dll
